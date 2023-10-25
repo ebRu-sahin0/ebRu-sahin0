@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 I'm interesting in Data Science and Machine Learning.
 &nbsp;
-<img width="55%" align="right" alt="Github" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSInW4tQ8LgxZaVNX-IuSMmBT7cub_WQKqFhw&usqp=CAU" />
+<img width="55%" align="right" alt="Github" src="https://www2.law.temple.edu/10q/wp-content/uploads/2020/07/Lin_3-1-scaled.jpg" />
 
 
 &nbsp;
