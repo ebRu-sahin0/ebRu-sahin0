@@ -3,7 +3,7 @@
   
 - 🌱 I’m currently learning DataScience and Machine Learning
 - 📫 How to reach me: ebrusahin7@gmail.com
-
+https://github.com/ebRu-sahin0/ebRu-sahin0/blob/main/README.md
 https://www.linkedin.com/in/ebru-sahin-b4926228/
 
 <!---
