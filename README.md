@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
  🌱 I'm interesting in Data Science and Machine Learning.
 &nbsp;
-<img width="40%" align="right" alt="Github" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtC3STQMVpwjGJIND34QjoG91mJoHRJ8eIsg&usqp=CAU" />
+<img width="50%" align="right" alt="Github" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSInW4tQ8LgxZaVNX-IuSMmBT7cub_WQKqFhw&usqp=CAU" />
 
 
 &nbsp;
