@@ -1,4 +1,4 @@
-         Hi, I'm Ebru Şahin, a Data Analyst  🚀 from Turkey.
+                           Hi, I'm Ebru Şahin, a Data Analyst  🚀 from Turkey.
 
   
 - 🌱 I’m currently learning DataScience and Machine Learning
