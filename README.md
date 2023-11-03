@@ -19,7 +19,7 @@ I'm interesting in Data Science and Machine Learning.
 How to reach me:
 &nbsp;
 &nbsp;
-[![Kaggle](https://img.shields.io/badge/-Kaggle-000?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ebrusahinnn)
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ebru-sahin-b4926228/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ebrusahin7@gmail.com)
 
